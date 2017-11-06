@@ -43,7 +43,7 @@ resume_social_links:
   # resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url:          "https://www.linkedin.com/in/bersam"
-  # resume_instagram_url:         "insert your Instagram URL here"
+  resume_instagram_url:         "http://instagram.com/bersamrocks"
   resume_website_url:           "http://bersam.org"
 resume_print_social_links:      true
 
