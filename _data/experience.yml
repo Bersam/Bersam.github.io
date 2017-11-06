@@ -1,19 +1,55 @@
 # Jobs
 
+# Pooyeshdarou
+- company: Pooyeshdarou
+  position: IT Consultant/Software Developer
+  duration: July, 2017 &mdash; Curr
+  summary: IT Consultant in pharmaceutical company. helped them in various area from NAS to BPM and ERP.
+
+# Freelancer
+- company: IACP
+  position: Full Stack Developer/Data Scientist
+  duration: October, 2016 &mdash; Curr
+  summary: Crawl public information using python and spidy store in mongodb and after statistical analysis visualize data using d3, react, and other libraries.
+
+# Freelancer
+- company: Various Companies
+  position: Full Stack Developer
+  duration: March, 2016 &mdash; October, 2016
+  summary: Design and development multiple projects included an semi-intelligent advertising system based on Instagram.
+
+# Azmoona
+- company: Azmoona
+  position: Android Application Developer
+  duration: September, 2015 &mdash; March 2016
+  summary: Design and development a education platform with auto scheduling for students and teachers. Project was an android application with latest technologies including Reactive Programming (RxJava).
+
+# Appforall
+- company: Appforall
+  position: Full stack Developer
+  duration: April, 2015  &mdash; September, 2015
+  summary: Developed Backend of an popular local app market for iPhone devices. Appforall.
+
 # CVAS
 - company: CVAS
   position: Web Developer
-  duration: February, 2013  &mdash; September, 2013
-  summary: CVAS team is young and professional, which use on-edge technology for their services. in CVAS, I mostly make Android Applications for other services we provide and I make RESTful API for other services or customers.
+  duration: February, 2014  &mdash; February, 2015
+  summary: Developed APIs, multiple data scraper, data mining. using NodeJs, Python.
+
+# CVAS
+- company: CVAS
+  position: Android Application Developer
+  duration: September, 2013  &mdash; February, 2014
+  summary: Developer of an Android E-Book Reader application for Persian language, the engine for projects Ketabrah, Behketab, and Toranj.
 
 # Jooyeshgar
 - company: Jooyeshgar
   position: Web Developer
-  duration:   February, 2013  &mdash; September, 2013
-  summary: Jooyeshgar (Jooyeshgar Pardis Eram) is a web design company since 2000. Jooyeshgar's services include custom website design, web application development, online booking system, web portal development, ecommerce solutions and etc.
+  duration: February, 2013  &mdash; September, 2013
+  summary: Linux Engineer, Application Developer, for several projects including parts of a 3D printer and online automation of an international express company
 
 # Metacomplex
 - company: Metacomplex
   position: Web Developer
   duration: June, 2012  &mdash; February, 2013
-  summary: Metacomplex (Isfahan Communication Development Complex) is one of the biggest companies in Isfahan.People consider Metaco as a training center, but Metaco is active in many other fields. Web Development is one of them.
+  summary: Web Developer for multi purpuse websites, portals, etc. also written a base content management system for company.
