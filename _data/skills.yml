@@ -1,10 +1,16 @@
 # Skills
 # Donut design
 - skill: Operating Systems
-  description: Linux, Android
+  description: Linux
 
 - skill: Languages
-  description: Python, Javascript, Ruby, HTML5/CSS3, PHP, Java, C++
+  description: Python, Javascript, HTML5/CSS3, Latex, PHP, Java, C++
 
-- skill: Libraries/Frameworks
-  description: Django, Nodejs, Rails, React, Mongodb, Redis, MariaDB, Kibana, Elasticsearch
+- skill: Libraries/Frameworks (Industrial)
+  description: Django, Nodejs, React, Mongodb, Redis, MariaDB, Kibana, Elasticsearch
+
+- skill: Libraries/Frameworks (Academical)
+  description: Numpy, Scipy, Pandas, Networkx, Plotly, Sklearn, Tensorflow, Gensim
+
+- skill: Tools
+  description: Octave, Jupyter Notebook
