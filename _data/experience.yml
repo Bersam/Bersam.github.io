@@ -1,31 +1,37 @@
 # Jobs
+# Egerd
+- company: Egerd
+  position: Senior Web Developer
+  duration: February, 2018 &mdash; Curr
+  summary: Lead a passionate team to develop a platform for our delivery company | Planned a successful migration of the whole system with zero downtime | Rewrite website from Java to Django/Reactjs | Develop a scraper for Amazon.com
 
 # Pooyeshdarou
 - company: Pooyeshdarou
   position: IT Consultant | Full Stack Developer
-  duration: July, 2017 &mdash; March 2018
-  summary: IT Consultant in pharmaceutical company. I've helped them in various area from NAS to BPM and ERP.
+  duration: July, 2017 &mdash; February 2018
+  summary:  Developed in-house tools for monitoring sensors in the facility | Deployed opensource solutions for file sharing and camera management | Developed in-house solution for gathering and analysing marketing data | Developed in-house solution for getting reports on Access Control Entry/Exit
 
 # Freelancer
 - company: Freelancer | Various Clients
   position: Full Stack Developer
   duration: March, 2015 &mdash; July, 2017
-  summary: Design and development multiple projects included an semi-intelligent advertising system based on Instagram, an education platform with auto scheduler for students, develop several web crawlers for an data-mining project and some other small works.
+  summary: Data Science project which I made several scrapers to mine data from different sources and visualize them in the website | A web scraper to get more insight in Instagram using engagement with other users | An educational platform to connect student and tutors
 
 # CVAS
 - company: CVAS
   position: Web Developer
   duration: September, 2013  &mdash; February, 2015
-  summary: Developed APIs, multiple data scraper, data mining. using NodeJs, Python.
+  summary: Developed crawlers to gather stock market data | Developed crawlers to gather news | Designed and Developed a Web Application for accessing raw and analysed data from a restful api
 
 # Jooyeshgar
 - company: Jooyeshgar
   position: Web Developer Intern
   duration: February, 2013  &mdash; September, 2013
-  summary: Linux Engineer, Application Developer, for several projects including parts of a 3D printer and online automation of an international express company
+  summary: Linux Engineer, for several projects including parts of a 3D printer and online automation of an international express company
+
 
 # Metacomplex
 - company: Metacomplex
   position: Web Developer Intern
   duration: June, 2012  &mdash; February, 2013
-  summary: Web Developer for multi purpose websites, portals, etc. also written a base content management system for company.
+  summary: Design portfolio webpages for clients using wordpress
