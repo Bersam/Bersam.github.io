@@ -4,13 +4,13 @@
   description: Linux
 
 - skill: Programming Languages
-  description: Python, Javascript, HTML5/CSS3, Latex, PHP, Java, C++
+  description: Python, Javascript, HTML5/CSS3, PHP, Ruby
 
 - skill: Libraries/Frameworks (Industrial)
   description: FastAPI, Django, Nodejs, React, Mongodb, Redis, MariaDB, Kibana, Elasticsearch
 
 - skill: Libraries/Frameworks (Academical)
-  description: Numpy, Scipy, Pandas, Networkx, Plotly, Sklearn, Tensorflow, Gensim
+  description: Numpy, Scipy, Pandas, Networkx, Plotly, Sklearn, Tensorflow
 
 - skill: Tools
   description: Octave, Jupyter Notebook
