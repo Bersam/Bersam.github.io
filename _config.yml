@@ -13,10 +13,10 @@ resume_avatar:                  "true"
 resume_name:                    "Bersam Karbasion"
 resume_title:                   "Master Student|Full Stack Developer"
 resume_contact_email:           "bersam@bersam.org"
-# resume_contact_telephone:       "+989371268912"
+# resume_contact_telephone:       ""
 resume_contact_address:         "Munich, Germany"
 resume_header_contact_info:     "Munich, Germany • bersam@bersam.org"
-display_header_contact_info:    "false"
+display_header_contact_info:    "true"
 resume_header_intro: "<p>My name is Bersam Karbasion (pronounced as [ber sa:m] in English and written as: \"برسام کرباسیون\" in Persian). I’m a first year M.S. Student in Computer Science at Amirkabir University of technology's Department of Mathematics and Computer Science. I got my B.S. in Computer Science from Sheikh Bahaei University.<br />
 In the past 9 years, I have worked closely with big companies in IT industry and developed my programming and management skills.</p>"
 
