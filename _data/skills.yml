@@ -7,7 +7,7 @@
   description: Python, Javascript, HTML5/CSS3, Latex, PHP, Java, C++
 
 - skill: Libraries/Frameworks (Industrial)
-  description: Django, Nodejs, React, Mongodb, Redis, MariaDB, Kibana, Elasticsearch
+  description: FastAPI, Django, Nodejs, React, Mongodb, Redis, MariaDB, Kibana, Elasticsearch
 
 - skill: Libraries/Frameworks (Academical)
   description: Numpy, Scipy, Pandas, Networkx, Plotly, Sklearn, Tensorflow, Gensim
