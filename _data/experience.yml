@@ -1,8 +1,14 @@
 # Jobs
+# Personio
+- company: Personio
+  position: Engineering Manager
+  duration: July, 2022 &mdash; Current
+  summary: Empowering a highly motivated team and take care of Integrations Marketplace in Personio
+  
 # Trustyou
 - company: Trustyou
   position: Lead Software Engineer / Team Manager
-  duration: October, 2019 &mdash; Current
+  duration: October, 2019 &mdash; July, 2022
   summary: Lead and manage a passionate team to tackle tech debt and develop one of most used feedback tool in hospitality | Migrate legacy codebase to new react/fastapi | Increase test coverage for our key apps | Dockerizing and moving from baremetal to k8s
 
 # Egerd
