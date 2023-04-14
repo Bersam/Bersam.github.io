@@ -17,14 +17,15 @@ resume_contact_email:           "bersam@bersam.org"
 resume_contact_address:         "Munich, Germany"
 resume_header_contact_info:     "Munich, Germany • bersam@bersam.org"
 display_header_contact_info:    "true"
-resume_header_intro: "<p>My name is Bersam Karbasion (pronounced as [ber sa:m] in English and written as: \"برسام کرباسیون\" in Persian). I was born in Iran and I am currently living in Germany since 2019. I have got my Bachelor of Science in Computer Science from Sheikh Bahaei University.<br />
-Currently, I work as an Engineerng Manager and a Software Engineer at Personio in beautiful Munich. In the past 10 years, I have worked closely with big companies in IT industry and developed my programming and management skills. I enjoy contributing to open-source projects and using them for my daily life and work!</p>"
+resume_header_intro: "<p>My name is Bersam Karbasion (pronounced as [ber sa:m] in English and written as "برسام کرباسیون" in Persian). I was born in Iran and have been living in Germany since 2019. I earned my Bachelor of Science degree in Computer Science from Sheikh Bahaei University.
+</br>
+Currently, I am employed as an Engineering Manager at Personio, based in the beautiful city of Munich. Over the past 10 years, I have collaborated with well-known companies in the IT industry, improving my software engineering and management abilities. I take pleasure in participating in open-source projects and utilizing them in my daily life and work.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
 # or remove the resume_looking_for_work option entirely
 # to leave blank
-resume_looking_for_work:        "yes"
+# resume_looking_for_work:        ""
 
 # Decide which sections to use
 # comment out to hide
